@@ -1,1 +1,2 @@
-# card-2
+# Frontend Mentor - Order summary card
+
